@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "820f78b7a9ba6521ab058d85e2a15500",
+    "revision": "f628cdef990d489c6a1412edbcf76a42",
     "url": "/lithoera/index.html"
   },
   {
-    "revision": "994a281efaafc53cdc01",
+    "revision": "31693d42201bcf26e23a",
     "url": "/lithoera/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lithoera/static/js/2.b75039ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "994a281efaafc53cdc01",
-    "url": "/lithoera/static/js/main.6bdb3059.chunk.js"
+    "revision": "31693d42201bcf26e23a",
+    "url": "/lithoera/static/js/main.8c16cd10.chunk.js"
   },
   {
     "revision": "d86551e57b38618e22d6",

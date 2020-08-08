@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lithoera/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/lithoera/static/js/main.6bdb3059.chunk.js",
-    "main.js.map": "/lithoera/static/js/main.6bdb3059.chunk.js.map",
+    "main.js": "/lithoera/static/js/main.8c16cd10.chunk.js",
+    "main.js.map": "/lithoera/static/js/main.8c16cd10.chunk.js.map",
     "runtime-main.js": "/lithoera/static/js/runtime-main.47758a0a.js",
     "runtime-main.js.map": "/lithoera/static/js/runtime-main.47758a0a.js.map",
     "static/js/2.b75039ad.chunk.js": "/lithoera/static/js/2.b75039ad.chunk.js",
     "static/js/2.b75039ad.chunk.js.map": "/lithoera/static/js/2.b75039ad.chunk.js.map",
     "index.html": "/lithoera/index.html",
-    "precache-manifest.0855e68fb5e3a7ff51639d2837107d66.js": "/lithoera/precache-manifest.0855e68fb5e3a7ff51639d2837107d66.js",
+    "precache-manifest.82e3f8107283b95050cb8e0637262355.js": "/lithoera/precache-manifest.82e3f8107283b95050cb8e0637262355.js",
     "service-worker.js": "/lithoera/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/lithoera/static/css/main.27fd15f6.chunk.css.map",
     "static/js/2.b75039ad.chunk.js.LICENSE.txt": "/lithoera/static/js/2.b75039ad.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.47758a0a.js",
     "static/js/2.b75039ad.chunk.js",
     "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.6bdb3059.chunk.js"
+    "static/js/main.8c16cd10.chunk.js"
   ]
 }
