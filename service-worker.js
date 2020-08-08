@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lithoera/precache-manifest.264e6d1dc66070869be6fd5e15a81a72.js"
+  "/lithoera/precache-manifest.0855e68fb5e3a7ff51639d2837107d66.js"
 );
 
 self.addEventListener('message', (event) => {

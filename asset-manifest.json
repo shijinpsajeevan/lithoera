@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/lithoera/static/css/main.5f361e03.chunk.css",
-    "main.js": "/lithoera/static/js/main.cd2a6e2d.chunk.js",
-    "main.js.map": "/lithoera/static/js/main.cd2a6e2d.chunk.js.map",
+    "main.css": "/lithoera/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/lithoera/static/js/main.6bdb3059.chunk.js",
+    "main.js.map": "/lithoera/static/js/main.6bdb3059.chunk.js.map",
     "runtime-main.js": "/lithoera/static/js/runtime-main.47758a0a.js",
     "runtime-main.js.map": "/lithoera/static/js/runtime-main.47758a0a.js.map",
-    "static/js/2.47df84ea.chunk.js": "/lithoera/static/js/2.47df84ea.chunk.js",
-    "static/js/2.47df84ea.chunk.js.map": "/lithoera/static/js/2.47df84ea.chunk.js.map",
+    "static/js/2.b75039ad.chunk.js": "/lithoera/static/js/2.b75039ad.chunk.js",
+    "static/js/2.b75039ad.chunk.js.map": "/lithoera/static/js/2.b75039ad.chunk.js.map",
     "index.html": "/lithoera/index.html",
-    "precache-manifest.264e6d1dc66070869be6fd5e15a81a72.js": "/lithoera/precache-manifest.264e6d1dc66070869be6fd5e15a81a72.js",
+    "precache-manifest.0855e68fb5e3a7ff51639d2837107d66.js": "/lithoera/precache-manifest.0855e68fb5e3a7ff51639d2837107d66.js",
     "service-worker.js": "/lithoera/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/lithoera/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.47df84ea.chunk.js.LICENSE.txt": "/lithoera/static/js/2.47df84ea.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lithoera/static/media/logo.5d5d9eef.svg"
+    "static/css/main.27fd15f6.chunk.css.map": "/lithoera/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.b75039ad.chunk.js.LICENSE.txt": "/lithoera/static/js/2.b75039ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.47758a0a.js",
-    "static/js/2.47df84ea.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cd2a6e2d.chunk.js"
+    "static/js/2.b75039ad.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.6bdb3059.chunk.js"
   ]
 }
